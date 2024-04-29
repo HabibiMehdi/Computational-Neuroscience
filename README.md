@@ -7,3 +7,6 @@ This link is about toturails of spike sorting :
     <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0361923015000684-gr1.jpg" alt="Spike sorting">
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0361923015000684-gr1.jpg" alt="Description of image">
+</div>
